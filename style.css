@@ -745,7 +745,14 @@ footer .copyright{
             width: 94vw;
             margin: 1.4rem 0 1rem;
           }
-
+  /*testimonails*/
+          section.testimonails .container{
+            width: 94vw;
+            grid-template-columns: 1fr;
+          }
+          section.testimonails .container .testimonail .head .stars i{
+            font-size: .8rem;
+          }
           /*contact*/
           section.contact .container{
             width: 94vw;
