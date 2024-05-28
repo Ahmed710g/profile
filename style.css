@@ -1,16 +1,16 @@
 
 
-:root{
-    --color-white:#fff;
-    --color-light:#f4f4f4;
-    --color-dark:#525252;
-    --color-black:#000;
-    --color-primary: #f24e1e;
-    --color-primary-light: hsl(14,89%,53%,12%);
-    --color-success:#29f5a6;
-    --color-warning:#ffce31;
+:root {
+    --color-white: #f9f9f9;
+    --color-light: #d1d1d1;
+    --color-dark: #2c2c2c;
+    --color-black: #0a0a0a;
+    --color-primary: #3b5998;
+    --color-primary-light: hsl(220, 30%, 85%);
+    --color-success: #00cc66;
+    --color-warning: #ff9900;
 
-    --transition:all 300ms ease;
+    --transition: all 300ms ease;
 }
 ::-webkit-scrollbar{
     width: 10px;
